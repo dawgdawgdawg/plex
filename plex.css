@@ -7,9 +7,9 @@
 
 .sbutton{
     height:40px;
-    width:200px;
     font-size:28px;
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+}
+.ebutton{
+    height:40px;
+    font-size:28px;
 }
